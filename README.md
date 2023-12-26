@@ -1,2 +1,1 @@
-# diskweb
-wepposter 2023//winter
+# Шаблон 
